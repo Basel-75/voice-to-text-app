@@ -1,16 +1,29 @@
-# voice_to_text
+# Voice-to-Text App
 
-A new Flutter project.
+A Flutter application designed to effortlessly convert spoken words into text. This app delivers a seamless experience with enhanced responsiveness, ensuring optimal performance across various screen sizes. Leveraging the `speech_to_text` package, users can easily record their speech, watch it transcribed in real-time, and copy the results to the clipboard.
 
-## Getting Started
+## Features:
+- Real-time speech-to-text conversion
+- Dynamic microphone button with a glowing effect
+- Copy transcribed text to the clipboard
+- Responsive layout for diverse screen sizes
 
-This project is a starting point for a Flutter application.
+## Usage:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/voice_to_text_app.git
+   cd voice_to_text_app
+Open the project in your preferred Flutter development environment (e.g., VS Code, Android Studio).
 
-A few resources to get you started if this is your first Flutter project:
+Run the app on an emulator or physical device.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Screenshots:
+![Homepage](assets/images/Homepage.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dependencies:
+Flutter
+speech_to_text
+avatar_glow
+Author:
+Basel-75
+Feel free to contribute, report issues, or suggest enhancements!
