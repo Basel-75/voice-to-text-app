@@ -26,4 +26,4 @@ speech_to_text
 avatar_glow
 ## Author:
 Basel-75
--Feel free to contribute, report issues, or suggest enhancements!
+- Feel free to contribute, report issues, or suggest enhancements!
