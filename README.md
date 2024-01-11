@@ -17,7 +17,7 @@ Open the project in your preferred Flutter development environment (e.g., VS Cod
 
 Run the app on an emulator or physical device.
 
-Screenshots:
+## Screenshots:
 ![Homepage](assets/images/Homepage.jpg)
 
 ## Dependencies:
@@ -26,4 +26,4 @@ speech_to_text
 avatar_glow
 ## Author:
 Basel-75
-Feel free to contribute, report issues, or suggest enhancements!
+-Feel free to contribute, report issues, or suggest enhancements!
