@@ -11,7 +11,7 @@ A Flutter application designed to effortlessly convert spoken words into text. T
 ## Usage:
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/voice_to_text_app.git
+   git clone https://github.com/Basel-75/voice_to_text_app.git
    cd voice_to_text_app
 Open the project in your preferred Flutter development environment (e.g., VS Code, Android Studio).
 
@@ -20,10 +20,10 @@ Run the app on an emulator or physical device.
 Screenshots:
 ![Homepage](assets/images/Homepage.jpg)
 
-Dependencies:
+## Dependencies:
 Flutter
 speech_to_text
 avatar_glow
-Author:
+## Author:
 Basel-75
 Feel free to contribute, report issues, or suggest enhancements!
